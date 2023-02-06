@@ -1,0 +1,14 @@
+{
+    "id_ligacao":1,
+    "data_corte":"string",
+    "id_tipo_corte":1,
+    "leitura_corte":1,
+    "residuo_corte":1,
+    "residuo_pendente":1,
+    "residuo_pendente_utilizado":1,
+    "leitura_religacao":1,
+    "fraude":"string",
+    "id_ciclo_residuo":1,
+    "obs":"string",
+    "data_religacao":"string"
+}

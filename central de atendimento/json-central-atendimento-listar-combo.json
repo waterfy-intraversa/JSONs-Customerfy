@@ -1,0 +1,9 @@
+{
+    "combo":[{
+        "id":1,
+        "idStr":"string",
+        "descr":"string",
+        "flag":"string",
+        "tipoRet":1
+    }]
+}

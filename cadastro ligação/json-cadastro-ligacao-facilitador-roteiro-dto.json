@@ -1,0 +1,24 @@
+[
+    [
+        {
+            "id_ligacao":1,
+            "inscricao":"string",
+            "grupo":"string",
+            "rota":"string",
+            "rota_ident":"string",
+            "quadra":"string",
+            "sequencia":"string",
+            "sub_sequencia":"string",
+            "endereco":"string",
+            "nr_imovel":"string",
+            "complemento":"string",
+            "setor_ident":"string",
+            "setor":"string",
+            "seq_leit_inicial":"string",
+            "seq_leit_final":"string",
+            "nr_imovel_inicial":"string",
+            "nr_imovel_final":"string",
+            "cor":"string"
+        }
+    ]
+]

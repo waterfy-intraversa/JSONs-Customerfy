@@ -1,0 +1,25 @@
+{
+    "id_categoria":1,
+    "categoria":"string",
+    "id_decreto":1,
+    "id_tipo_faturamento":1,
+    "sub_total_valor_agua":1.1,
+    "sub_total_valor_esgoto":1.1,
+    "sub_total_consumo":1.1,
+    "sub_total":1.1,
+    "total":1.1,
+    "nr_economias_total_ligacao":1,
+    "nr_economias_categoria":1,
+    "col_resultados_categoria":[{
+        "id_produto":1,
+        "produto":"string",
+        "consumo":1.1,
+        "valor_agua":1.1,
+        "faixa":"string",
+        "faturado":1.1,
+        "valor_esgoto":1.1,
+        "valor_total":1.1,
+        "nr_economias":1,
+        "percentual_fat":1
+    }]
+}

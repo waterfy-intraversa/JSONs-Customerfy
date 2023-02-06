@@ -1,0 +1,11 @@
+[
+    {
+        "codigo_produto":1,
+        "produto":"string",
+        "valor":1.1,
+        "data_adesao":"string",
+        "data_processamento":"string",
+        "cancelado":"string",
+        "motivo_cancelamento":"string"
+    }
+]

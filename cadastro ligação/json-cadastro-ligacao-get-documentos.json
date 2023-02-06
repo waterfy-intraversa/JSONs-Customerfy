@@ -1,0 +1,27 @@
+{
+    "id_ligacao":1,
+    "cliente":"string",
+    "endereco":"string",
+    "id_cidade":1,
+    "documentos":[{
+        "id":1,
+        "id_documento_tipo":1,
+        "id_documento_motivo":1,
+        "id_documento_gs":"string",
+        "largura":1,
+        "altura":1,
+        "nome_arquivo":"string",
+        "arquivo":"string",
+        "documento_tipo":"string",
+        "documento_motivo":"string",
+        "imagem":true,
+        "pdf":false,
+        "arq_base64":"string",
+        "id_ocorrencia_leitura":1,
+        "ocorrencia_leitura":"string",
+        "observacao":"string",
+        "id_periodo":1,
+        "id_ocorrencia":1,
+        "path":"string"
+    }]
+}

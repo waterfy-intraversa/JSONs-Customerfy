@@ -1,0 +1,14 @@
+{
+    "id_tipo_parcelamento":1,
+    "id_cidade":1,
+    "tipo_parcelamento":1,
+    "nr_dias_vencimento_entrada":1,
+    "nr_dias_validade_entrada":1,
+    "entrada_obrigatoria":"string",
+    "permite_alterar_entrada":"string",
+    "incorpora_parcelamento_nao_liberado":"string",
+    "hora_exec_automacao":"string",
+    "remove_abas_informacoes":"string",
+    "retro_alimentacao_entrada_paga":"string",
+    "id_rubrica_desconto_encargos":1
+}

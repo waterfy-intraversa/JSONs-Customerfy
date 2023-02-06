@@ -1,0 +1,21 @@
+{
+    "id_rubrica":1,
+    "id_fatura_incorp":1,
+    "id_periodo_incorp":1,
+    "id_periodo_ref":1,
+    "preiodo_incorp":"string",
+    "rubrica":"string",
+    "nr_parcela":1,
+    "nr_parcelas":1,
+    "valor_faturado":1.1,
+    "valor_a_faturar":1.1,
+    "valor_imposto_faturado":1.1,
+    "valor_imposto_a_faturar":1.1,
+    "fatura_a_vulsa":true,
+    "vencimento":"string",
+    "id_ligacao_seguro":1,
+    "venda_rubrica_detalhe_imposto_vo":[{
+        "id_rubrica":1,
+        "valor":1.1
+    }]
+}

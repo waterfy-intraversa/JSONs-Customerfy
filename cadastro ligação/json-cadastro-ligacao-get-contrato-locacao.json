@@ -1,0 +1,16 @@
+[	
+	{
+		"id_contrato":1,
+		"id_ligacao":1,
+		"id_cliente_inquilino":1,
+		"id_tipo_locacao":1,
+		"numero_moradores":1,
+		"cliente_inquilino":"string",
+		"contrato_locacao":"string",
+		"tipo_locacao":"string",
+		"data_vigencia_de":"string",
+		"data_vigencia_ate":"string",
+		"data_encerramento":"string",
+		"ativo":"string"
+	}
+]

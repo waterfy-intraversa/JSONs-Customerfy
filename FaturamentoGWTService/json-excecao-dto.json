@@ -1,0 +1,12 @@
+{
+    "excecao":"string",
+    "id_excecao_tipo":1,
+    "excecao_tipo":"string",
+    "id_excecao_aplicacao":1,
+    "excecao_aplicacao":"string",
+    "exige_percentual":true,
+    "exige_valor":true,
+    "momento_calculo":"string",
+    "ordem_aplicacao":1,
+    "ordem_tipo":1
+}

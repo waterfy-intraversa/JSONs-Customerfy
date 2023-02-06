@@ -1,0 +1,14 @@
+{
+    "leitura_atual":1,
+    "id_periodo":1,
+    "id_motivo_emissao":1,
+    "id_ligacao":1,
+    "id_tipo_ligacao":1,
+    "motivo_emissao":"string",
+    "data_leitura":"string",
+    "data_vencimento":"string",
+    "faturar_consumo_mes":true,
+    "gerar_os_corte":true,
+    "cobrar_encargos":true,
+    "id_cliente_inquilino":1
+}

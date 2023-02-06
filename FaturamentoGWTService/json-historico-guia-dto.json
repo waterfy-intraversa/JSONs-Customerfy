@@ -1,0 +1,30 @@
+{
+    "id_guia":1,
+    "data_geracao":"string",
+    "data_vencimento":"string",
+    "data_pagamento":"string",
+    "valor_acrescimos":1.1,
+    "valor_faturas":1.1,
+    "valor_total":1.1,
+    "com_acrescimos":true,
+    "usuario":"string",
+    "id_tipo_guia":1,
+    "tipo_guia":"string",
+    "gear_os_corte":"string",
+    "v_historico_guia_fatura":[{
+        "id_fatura":1,
+        "valor":1.1,
+        "valor_imposto":1.1,
+        "data_vencimento":"string",
+        "periodo":"string",
+        "id_tipo_transacao":1,
+        "id_fatura_situacao":1,
+        "id_tipo_cobranca":1,
+        "id_cliente_inquilino":1,
+        "enviado":true,
+        "v_historico_guia_acrescimo":[{
+            "id_fatura_gerada":1,
+            "id_fatura_situacao":1
+        }]
+    }]
+}

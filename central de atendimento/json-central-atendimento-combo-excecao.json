@@ -1,0 +1,17 @@
+[
+    {
+        "id_excecao":1,
+        "id_tipo_excecao":1,
+        "exige_percentual":"string",
+        "exige_valor":"string",
+        "exige_cargo":"string",
+        "exige_classificacao_fiscal":"string",
+        "exige_tipo_faturamento":"string",
+        "exige_data":"string",
+        "exige_ajuste_valor_por_volume":"string",
+        "exige_categoria":"string",
+        "exige_sub_categoria":"string",
+        "id_motivo_padrao":1,
+        "id_periodo_incorporação":1
+    }
+]

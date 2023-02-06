@@ -1,0 +1,18 @@
+{
+    "id_documento_tipo":1,
+    "id_documento_motivo":1,
+    "nome_arquivo":"",
+    "arquivo":"",
+    "documento_tipo":"",
+    "documento_motivo":"",
+    "altura":1,
+    "largura":1,
+    "imagem":true,
+    "id_ocorrencia_leitura":1,
+    "ocorrencia_leitura":"",
+    "obs":"",
+    "pdf":true,
+    "id_periodo":1,
+    "id_ocorrencia":1,
+    "path":""
+}

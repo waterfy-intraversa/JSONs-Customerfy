@@ -1,0 +1,24 @@
+{
+    "recadastro":[{
+        "processo":{
+            "id_ligacao":1,
+            "id_processo":1,
+            "data_cadastro":"string",
+            "programa":"string",
+            "data_inicio":"string",
+            "data_termino":"string",
+            "id_status":1,
+            "id_fase":1,
+            "atributos_atualizados":[{
+                "id_atributo":1,
+                "atributo":"string",
+                "antes":"string",
+                "depois":"string",
+                "empresa":"string",
+                "data_atualizacao":"string",
+                "repasse":true,
+                "atualizado":true
+            }]
+        }
+    }]
+}

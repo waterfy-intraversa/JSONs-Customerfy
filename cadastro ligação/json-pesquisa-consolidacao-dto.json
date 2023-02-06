@@ -1,0 +1,28 @@
+{
+    "id_ligacao":1,
+    "grupo":"grupo 1",
+    "cliente":"Maria",
+    "endereco":"rua 1",
+    "medidor":"Y22L405492",
+    "tipo_faturamento":"agua",
+    "categoria":"residencial",
+    "consolidacao_detalhe":[{
+        "id_ligacao":1,
+        "grupo":"grupo 1",
+        "data_ligacao":"10102015",
+        "endereco":"rua 1",
+        "medidor":"Y22L405492",
+        "tipo_faturamento":"agua",
+        "categoria":"residencial",
+        "consolidacao_detalhe":[{
+            "id_ligacao":1,
+            "grupo":"grupo 1",
+            "data_ligacao":"10102015",
+            "endereco":"rua 1",
+            "medidor":"Y22L405492",
+            "tipo_faturamento":"agua",
+            "categoria":"residencial",
+            "consolidacao_detalhe":[{ }]    
+        }]
+    }]
+}

@@ -1,0 +1,12 @@
+{
+	"campos_pesquisa":{
+		"campos":[{
+			"campo":"campo",
+			"nome":"nome",
+			"tipo_dado_java":"tipo",
+			"tabela":"tabela",
+			"tabela_cons_padrao":"tabela",
+			"campo_cons_padrao":"campo"
+		}]
+	}
+}

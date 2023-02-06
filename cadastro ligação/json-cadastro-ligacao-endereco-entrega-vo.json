@@ -1,0 +1,12 @@
+{
+    "id_ligacao_entrega":1,
+    "id_tipo_entrega":1,
+    "cidade_entrega":"string",
+    "id_uf_entrega":1,
+    "logradouro_entrega":"string",
+    "complemento_entrega":"string",
+    "nr_imovel_entrega":1,
+    "cep_entrega":"string",
+    "bairro_entrega":"string",
+    "sub_bairro_entrega":"string"
+}

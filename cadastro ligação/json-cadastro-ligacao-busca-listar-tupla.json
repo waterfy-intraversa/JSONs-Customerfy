@@ -1,0 +1,19 @@
+{
+	"gridvo":{
+		"colunas":[
+			"string"
+		],
+		"dados":[{
+			"linha":[
+				"row"
+			],
+			"representação":{				
+				"id":1,
+				"idStr":"string",
+				"descr":"string",
+				"flag":"string",
+				"tipoRet":1
+			}
+		}]
+	}
+}

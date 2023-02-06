@@ -1,0 +1,20 @@
+{
+    "alterado":true,
+    "novo":true,
+    "bairro":"string",
+    "sub_bairro":"string",
+    "nr_imovel":1,
+    "cep":"string",
+    "id_grupo":1,
+    "rota":1,
+    "quadra":1,
+    "sequencia":1,
+    "sub_unidade":1,
+    "cidade":"string",
+    "complemento":"string",
+    "logradouro":"string",
+    "id_uf":1,
+    "id_uf_entrega":1,
+    "id_cidade":1,
+    "id_cidade_grupo":1
+}

@@ -1,0 +1,23 @@
+{
+    "id_cidade":1,
+    "bairro":"string",
+    "logradouro":"string",
+    "nr_imovel":"string",
+    "nr_imovel_antigo":false,
+    "proprietario":"string",
+    "inscricao":"string",
+    "nr_medidor":"string",
+    "complemento":"string",
+    "id_ligacao":"string",
+    "telefone":"string",
+    "id_grupo":1,
+    "id_setor":1,
+    "id_rota":1,
+    "id_quadra":1,
+    "id_seq":1,
+    "id_sub_seq":1,
+    "combo_logradouro":false,
+    "tipo_logradouro":"string",
+    "cep":"string",
+    "cpf_cnpj":"string"
+}

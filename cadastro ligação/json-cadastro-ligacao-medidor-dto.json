@@ -1,0 +1,14 @@
+{
+    "medidor":"string",
+    "id_medidor":1,
+    "data_aquisicao":"string",
+    "ano_fabricacao":"string",
+    "situacao":"string",
+    "marca":"string",
+    "modelo":"string",
+    "tipo":"string",
+    "tecnologia":"string",
+    "vazao":"string",
+    "classe":"string",
+    "ponteiro":"string"
+}
