@@ -1,12 +1,24 @@
 {
 	"campos_pesquisa":{
-		"campos":[{
-			"campo":"campo",
-			"nome":"nome",
-			"tipo_dado_java":"tipo",
-			"tabela":"tabela",
-			"tabela_cons_padrao":"tabela",
-			"campo_cons_padrao":"campo"
+		"campos":[{			
+			"id_tabela":1,
+			"campo":"string",
+			"nome":"string",
+			"tipo_dado_java":"string",
+			"tabela":"string",
+			"tabela_cons_padrao":"string",
+			"campo_cons_padrao":"string",
+			"id_cons_padrao":1,
+			"tam_campo":1,
+			"tipo_dado_bd":"string",
+			"val_default":"string",
+			"campo_cons_registro":"string",
+			"campo_exibe_cons_registro":1,
+			"campo_rotulo_vo":[{
+				"id_tabela_campo":1,
+				"id_lingua":1,
+				"descricao":"string"
+			}]			
 		}]
 	}
 }

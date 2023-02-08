@@ -1,0 +1,28 @@
+{
+    "id":1,
+    "tipo_registro":"",
+    "id_assessoria":1,
+    "assessoria":"",
+    "data_hora_deracao_arquivo":"",
+    "data_movimento_arquivo":"",
+    "cobranca_extra_judicial_retorno_detalhes":[{
+        "id":1,
+        "id_cobranca_extra_judicial_retorno":1,
+        "tipo_registro":"",
+        "id_assessoria":1,
+        "assessoria":"",
+        "cpf_cnpj_cliente":"",
+        "id_ligacao":1,
+        "data_acionamento":"",
+        "hora_acionamento":"",
+        "tipo_acao":"",
+        "descricao_acao":"",
+        "valor":"",
+        "data_agendamento":"",
+        "ddd":1,
+        "telefone":"",
+        "email_cliente":"",
+        "cpf_acionador":"",
+        "nome_acionador":""
+    }]
+}

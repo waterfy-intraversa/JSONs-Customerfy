@@ -1,0 +1,9 @@
+{
+    "id_cidade":1,
+    "id_ligacao":1,
+    "id_usuario":1,
+    "codigo_processo":"",
+    "data_inicio":"",
+    "observacao":"",
+    "id_processo_juridico":1
+}
