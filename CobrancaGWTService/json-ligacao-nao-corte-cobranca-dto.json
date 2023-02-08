@@ -1,0 +1,8 @@
+{
+    "id_motivo_nao_corte":1,
+    "id_agente":1,
+    "id_ligacao":1,
+    "motivo_nao_corte":"",
+    "agente":"",
+    "data_nao_corte":""
+}

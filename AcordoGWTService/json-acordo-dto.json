@@ -1,0 +1,30 @@
+{
+    "id":1,
+    "data_hora":"",
+    "faturas":[{
+        "id_fatura":1,
+        "id_tipo_transacao":1,
+        "tipo_transacao":"",
+        "vencimento":"",
+        "valor":1.1,
+        "cadastro":"",
+        "id_fatura_situacao":1,
+        "fatura_situacao":"",
+        "data_vencimento":"",
+        "status":"",
+        "id_cliente_inquilino":1,
+        "nome_cliente_inquilino":""
+    }],
+    "id_motivo_acordo":1,
+    "motivo_acordo":"",
+    "data_limite":"",
+    "observacao":"",
+    "nr_dias_limite_acordo":1,
+    "id_ligacao":1,
+    "id_usuario":1,
+    "usuario":"",
+    "id_situacao_acordo":1,
+    "situacao_acordo":"",
+    "id_cliente_inquilino":1,
+    "nome_cliente_inquilino":""
+}

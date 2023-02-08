@@ -1,0 +1,15 @@
+{
+    "consumidor":"",
+    "endereco":"",
+    "processos":[{
+        "id_processo_juridico":1,
+        "codigo_processo":"",
+        "data_inicio":"",
+        "observacao":"",
+        "data_cadastro":"",
+        "usuario_cadastro":"",
+        "data_inativacao":"",
+        "usuario_inativacao":"",
+        "ativo":""
+    }]
+}
