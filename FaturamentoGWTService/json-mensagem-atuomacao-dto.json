@@ -1,0 +1,15 @@
+{
+    "data_inicial":"",
+    "data_final":"",
+    "mensagem":"",
+    "id_cidade":1,
+    "prioridade":1,
+    "tipo_leitura":"",
+    "id_grupo":1,
+    "grupo":"",
+    "id_bairro":1,
+    "bairro":"",
+    "id_logradouro":1,
+    "lograouro":"",
+    "id_ligacao":1
+}
