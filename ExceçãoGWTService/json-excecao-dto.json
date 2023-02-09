@@ -1,0 +1,26 @@
+{
+    "novo":true,
+    "id_cidade":1,
+    "excecao":"",
+    "momento_calculo":"",
+    "id_excecao_tipo":1,
+    "id_excecao_aplicacao":1,
+    "tipo_fat_admitido":"",
+    "perda_comercial":true,
+    "retencao_forcada":true,
+    "aceita_em_lig_cons":true,
+    "considerar_no_recalculo":true,
+    "aplica_excecao_ligacao_cortada":true,
+    "permite_ligacao_filho":true,
+    "id_excecao_ajuste_valor":1,
+    "ativa":true,
+    "considerar_recalculo_simultanea":true,
+    "cadastravel":true,
+    "id_rubrica":1,
+    "excecao_produto_DTO":[{
+        "id_produto":1,
+        "id_rubrica":1
+    }],
+    "visualizada_pelo_call_center":true,
+    "id_motivo":1
+}
