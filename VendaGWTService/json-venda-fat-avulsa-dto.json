@@ -1,0 +1,36 @@
+{
+    "id_tipo_venda":1,
+    "tipo_venda":"",
+    "id_situacao_fatura":1,
+    "situacao_fatura":"",
+    "id_venda":1,
+    "ids_venda_detalhe":"",
+    "data_lancto":"",
+    "nr_nf":1,
+    "vencimento":"",
+    "valor":1.1,
+    "valor_imposto":1.1,
+    "observacao":"",
+    "id_usuario_cadastro":1,
+    "usuario_cadastro":"",
+    "id_fatura":1,
+    "venda_fat_avulsa_det_vo":[{
+        "codigo":1,
+        "id_rubrica":1,
+        "rubrica":"",
+        "valor":1.1,
+        "valor_uf_ir":1.1,
+        "valor_imposto":1.1,
+        "venda_fat_avulsa_det_imposto_vo":[{
+            "id_rubrica":1,
+            "valor":1.1
+        }]
+    }],
+    "id_ligacao_consolidadora":1,
+    "id_tipo_cobranca":1,
+    "enviado":true,
+    "enviado_cancelamento":true,
+    "id_tipo_transacao":1,
+    "valor_uf_ir":1.1,
+    "id_cliente_inquilino":1
+}

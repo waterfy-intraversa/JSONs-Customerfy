@@ -1,0 +1,9 @@
+{
+    "id_grupo_receita":1,
+    "id_rubrica_debito":1,
+    "id_rubrica_credito":1,
+    "percentual_rateio":1,
+    "id_classificacao_venda":1,
+    "id_produto":1,
+    "id_categoria":1    
+}

@@ -1,0 +1,46 @@
+{
+    "observacao":"",
+    "valor":1.1,
+    "valor_imposto":1.1,
+    "venda_rubrica_vo":[{
+
+    }],
+    "id_ligacao":1,
+    "id_ligacao_entrega":1,
+    "id_tipo_venda":1,
+    "data":"",
+    "id_faturas":[
+        1
+    ],
+    "id_cidade":1,
+    "id_grupo":1,
+    "id_grupo_entrega":1,
+    "id_cliente":1,
+    "id_usuario_cadastro":1,
+    "id_ligacao_consolidadora":1,
+    "id_periodos_faturas_a_recalcular":[
+        1
+    ],
+    "id_taxa_financiamento":1,
+    "id_fatura_origem":1,
+    "id_parcelamento":1,
+    "id_tipo_parcelamento_acordo":1,
+    "id_class_consumo":1,
+    "col_categorias":[{
+        "id_categoria":1,
+        "nr_economias":1,
+        "peso":1,
+        "id_sub_categoria":1,
+        "id_ligacao":1,
+        "prioridade":1,
+        "vol_cons_minimo":1.1,
+        "percentual_fat":1,
+        "taxa_de_serviço":1.1,
+        "aluguel_hidrometro":1.1,
+        "id_rubrica":1,
+        "valor_consumo_zero":1.1
+    }],
+    "valor_uf_ir":1.1,
+    "id_cliente_inquilino":1,
+    "id_classificacao_venda":1
+}

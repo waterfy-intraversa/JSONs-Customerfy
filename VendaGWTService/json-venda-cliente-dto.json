@@ -1,0 +1,30 @@
+{
+    "data":"",
+    "id_cidade":1,
+    "id_ligacao":1,
+    "id_ligacao_entrega":1,
+    "id_grupo":1,
+    "id_grupo_entrega":1,
+    "id_cliente_inquilino":1,
+    "grupo":"",
+    "cliente":"",
+    "cpf":"",
+    "cnpj":"",
+    "endereco":"",
+    "id_ligacao_consolidadora":1,
+    "id_class_consumo":1,
+    "col_categorias":[{
+        "id_categoria":1,
+        "nr_economias":1,
+        "peso":1,
+        "id_sub_categoria":1,
+        "id_ligacao":1,
+        "prioridade":1,
+        "col_cons_minimo":1.1,
+        "percentual_fat":1,
+        "taxa_de_serviço":1.1,
+        "aluguel_hidrometro":1.1,
+        "id_rubrica":1,
+        "valor_consumo_zero":1.1
+    }]
+}

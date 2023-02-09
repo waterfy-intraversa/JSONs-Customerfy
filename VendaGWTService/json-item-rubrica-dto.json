@@ -1,0 +1,11 @@
+{
+    "descr":"",
+    "codigo":"",
+    "deb_cred":"",
+    "valor":1.1,
+    "id_classificacao_fiscal_rubrica":1,
+    "item_rubrica_imp_vo":[{
+        "id_rubrica_imp":1,
+        "percentual":1.1
+    }]
+}
