@@ -1,0 +1,23 @@
+{
+    "id_codigo_leitura":1,
+    "codigo_leitura":"",
+    "msg_coletor":"",
+    "id_criterio_fat":1,
+    "criterio_faturamento_fixo":"",
+    "considerar_para_media":"",
+    "padrao":"",
+    "aceita_leitura":"",
+    "id_cidade":1,
+    "repasse":"",
+    "repasse_simultanea":"",
+    "leitura_HM_nao_confere":"",
+    "id_prevencao_acidentes":1,
+    "enviar_coletor":"",
+    "padrao_recalculo":"",
+    "msg_fatura":"",
+    "estimada":"",
+    "imprimir_aviso_impedimento_leitura":"",
+    "emite_aviso_retencao":"",
+    "alterar_categoria":"",
+    "alterar_nr_economias":""
+}
