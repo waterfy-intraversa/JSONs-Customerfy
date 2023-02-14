@@ -1,0 +1,14 @@
+{
+    "alterado":false,
+    "novo":true,
+    "id_produto_media_fat":1,
+    "tipo_faturamento":"",
+    "produto_vo":[{
+        "id_produto":1,
+        "produto":"",
+        "percentual":1.1,
+        "tipo_faturamento":"",
+        "id_tipo_faturamento":1,
+        "vol_fat":1
+    }]
+}
