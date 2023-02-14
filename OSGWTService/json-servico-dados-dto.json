@@ -1,0 +1,11 @@
+{
+    "id_os":1,
+    "id_servico":1,
+    "descricao":"",
+    "data_hora_abertura":"",
+    "bairro":"",
+    "logradouro":"",
+    "nr":"",
+    "nao_admite_duplicacao":true,
+    "id_servico_abertura":1
+}
