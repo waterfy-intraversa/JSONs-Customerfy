@@ -1,0 +1,12 @@
+{
+    "id_os":1,
+    "id_ligacao":1,
+    "data":"",
+    "email":"",
+    "solicitante":"",
+    "servicos":[{
+        "id_servico":1,
+        "descricao":"",
+        "prazo":""
+    }]
+}

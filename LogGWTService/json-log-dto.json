@@ -1,0 +1,21 @@
+{
+    "id_os":1,
+    "id_os_detalhe":1,
+    "id_usuario":1,
+    "id_ligacao":1,
+    "id_tela":1,
+    "id_operacao":1,
+    "id_acao":1,
+    "id_unidade_operacional":1,
+    "data":"",
+    "hora":"",
+    "observacao":"",
+    "col_log_detalhe_vo":[{
+        "campos_alterados":"",
+        "dados_pre_alteracao":"",
+        "dados_pos_alteracao":""
+    }],
+    "usuario":"",
+    "operacao":"",
+    "acao":""
+}
