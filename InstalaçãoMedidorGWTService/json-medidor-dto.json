@@ -1,0 +1,11 @@
+{
+    "id_cidade":1,
+    "id_empresa":1,
+    "id_modelo":1,
+    "numero_medidor":"",
+    "ano_fabricacao":1,
+    "id_sit_medidor":1,
+    "instalacao":"",
+    "data_aquisicao":"",
+    "id_forma_aquisicao":1
+}
