@@ -1,0 +1,7 @@
+{
+    "id_fatura_origem":1,
+    "data_vencimento":"",
+    "data_pagamento":"",
+    "permite_baixa_sem_indice_correcao":"",
+    "id_venda":1
+}
