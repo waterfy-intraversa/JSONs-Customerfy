@@ -1,0 +1,29 @@
+{
+    "situacao":1,
+    "id_cidade":1,
+    "id_grupo":1,
+    "id_periodo":1,
+    "filtro_categoria":false,
+    "lista_id_categoria":"",
+    "categoria":[
+        1
+    ],
+    "de_filtro_vol_medido_medio":1.1,
+    "ate_filtro_vol_medido_medeio":1.1,
+    "de_filtro_vol_faturado_medio":1.1,
+    "ate_filtro_vol_faturado_medio":1.1,
+    "de_filtro_val_total_debitos":1.1,
+    "ate_filtro_val_total_debitos":1.1,
+    "de_filtro_tot_faturas_debito":1.1,
+    "ate_filto_tot_faturas_debito":1.1,
+    "incluir_ligacoes_inativas":false,
+    "incluir_ligacoes_cotadas":false,
+    "mensagem":"",
+    "ligacoes":[
+        1
+    ],
+    "chk_filtro_vol_medido_medio":false,
+    "chk_filtro_vol_faturado_medio":false,
+    "chk_filtro_val_total_debitos":false,
+    "chk_filtro_tot_faturas_debito":false
+}
