@@ -1,0 +1,18 @@
+{
+    "id_cidade":1,
+    "interv_separacao_leit":1,
+    "interv_envio_coletor_leit":1,
+    "interv_retorno_leit":1,
+    "interv_repasse_leit":1,
+    "interv_ret_repasse_leite":1,
+    "interv_calculo_leit":1,
+    "interv_impressao_leit":1,
+    "interv_entrega_fat_venc":1,
+    "nr_min_dias_cons":1,
+    "nr_max_dias_cons":1,
+    "nr_min_dias_venc":1,
+    "nr_max_dias_venc":1,
+    "nr_min_dias_sep_imp":1,
+    "nr_max_dias_sep_imp":1
+    
+}
