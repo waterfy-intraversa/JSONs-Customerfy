@@ -1,0 +1,14 @@
+{
+    "id":1,
+    "id_ligacao":1,
+    "id_arrecadador":1,
+    "arrecadador":"",
+    "seq_deb_auto":"",
+    "ativo":true,
+    "cod_agencia":"",
+    "cod_conta":"",
+    "data_cadastro":"",
+    "data_inativacao":"",
+    "id_usuario":1,
+    "codigo_cliente_banco":""
+}
