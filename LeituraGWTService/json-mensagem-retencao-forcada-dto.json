@@ -1,0 +1,9 @@
+{
+    "id_ligacao":1,
+    "ativo":false,
+    "nome_consumidor":"",
+    "id_periodo_inicial":1,
+    "id_periodo_final":1,
+    "mensagem":"",
+    "log_alteracao":""
+}
