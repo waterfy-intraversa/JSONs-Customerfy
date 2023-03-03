@@ -1,0 +1,14 @@
+{
+    "tipo_entrega":"",
+    "dividir_cobranca_mesmo_endereco":"",
+    "rubrica":[{
+        "id_cidade":1,
+        "cidade":"",
+        "id_rubrica":1,
+        "rubrica":"",
+        "valor":1.1
+    }],
+    "email":"",
+    "assunto_email":"",
+    "texto_email":""
+}
