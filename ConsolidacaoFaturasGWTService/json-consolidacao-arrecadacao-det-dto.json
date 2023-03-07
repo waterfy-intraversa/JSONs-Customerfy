@@ -1,0 +1,15 @@
+{
+    "id_ligacao":1,
+    "id_consolidacao_arrecadacao":1,
+    "nome_cliente":"",
+    "logradouro":"",
+    "numero_imovel":"",
+    "bairro":"",
+    "id_fatura":1,
+    "id_guia":1,
+    "valor_fatura":1.1,
+    "data_vencimento":"",
+    "situacao_ligacao":"",
+    "id_cidade":1,
+    "cidade":""
+}
