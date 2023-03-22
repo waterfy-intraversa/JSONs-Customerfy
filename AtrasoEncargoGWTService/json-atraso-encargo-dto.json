@@ -1,0 +1,8 @@
+{
+    "novo":true,
+    "id_cidade":1,
+    "atraso_encargo":"",
+    "taxa_atraso_vo":[{
+        "id_taxa_atraso":1
+    }]
+}
