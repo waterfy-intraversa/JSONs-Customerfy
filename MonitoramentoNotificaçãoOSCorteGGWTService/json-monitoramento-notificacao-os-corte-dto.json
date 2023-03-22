@@ -1,0 +1,9 @@
+{
+    "id_ligacao":1,
+    "id_os":1,
+    "numero_lote":1,
+    "data_hora_envio":"",
+    "status":"",
+    "mensagem_erro":"",
+    "tentativa_envio":1
+}
