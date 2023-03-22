@@ -1,0 +1,20 @@
+{
+    "id_cliente":1,
+    "id_cidade":1,
+    "id_ligacao":1,
+    "id_grupo":1,
+    "cliente":"",
+    "endereco":"",
+    "grupo":"",
+    "qtd_faturas":1,
+    "valor_faturas":1.1,
+    "faturas":[{
+        "id_fatura":1,
+        "vencimento":"",
+        "valor":1.1
+    }],
+    "categoria":"",
+    "id_categoria":"",
+    "id_faturas":"",
+    "selecionado":false
+}
