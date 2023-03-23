@@ -1,0 +1,16 @@
+{
+    "historico":"",
+    "data_hora_cadastro":"",
+    "id_cidade":1,
+    "id_ligacao":1,
+    "consumidor":"",
+    "categoria":"",
+    "situacao":"",
+    "id_situacao_ligacao":1,
+    "cobranca_fase":"",
+    "id_cobranca_fase":1,
+    "id_usuario":1,
+    "usuario":"",
+    "data_ini":"",
+    "data_fim":""
+}
