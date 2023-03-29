@@ -1,0 +1,33 @@
+{
+    "id_decreto":1,
+    "id_categoria":1,
+    "decreto_categoria_produto_list":[{
+        "id_decreto":1,
+        "id_decreto_categoria":1,
+        "id_produto":1,
+        "produto":"",
+        "faixa_minima":1.1,
+        "faixa_maxima":1.1,
+        "valor":1.1,
+        "valor_deducao":1.1,
+        "acao":"",
+        "valor_deducao_desc_min":1.1,
+        "decreto":"",
+        "categoria":"",
+        "validado":"",
+        "cidade":"",
+        "data_vigencia":"",
+        "periodo":"",
+        "valor_com_desconto":1.1,
+        "volume_limite":1.1,
+        "valor_tarifa_fixa":1.1
+    }],
+    "produto_valor_fixo_list":[{
+        "id_produto":1,
+        "id_decreto_categoria":1,
+        "valor":1.1
+    }],
+    "acao":"",
+    "custo_fixo":1.1
+    
+}
