@@ -1,0 +1,16 @@
+{
+    "idCidade":1,
+    "idPeriodo":1,
+    "mes":1,
+    "ano":1,
+    "periodoDesc":"",
+    "idGrupo":1,
+    "rota":1,
+    "tipoEnvio":1,
+    "tipoEnvioDesc":"",
+    "matricula":1,
+    "leiturista":"",
+    "idUsuario":1,
+    "usuario":"",
+    "dataHora":""
+}
