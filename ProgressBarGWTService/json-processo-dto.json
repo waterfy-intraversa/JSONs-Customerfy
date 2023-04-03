@@ -1,13 +1,13 @@
 {
     "pid":1,
-    "qtd_a_executar":1,
-    "qtd_executada":1,
+    "qtdAExecutar":1,
+    "qtdExecutada":1,
     "percentual":1,
-    "id_usuario":1,
-    "ultimo_percentual":1,
+    "idUsuario":1,
+    "ultimoPercentual":1,
     "acao":"",
     "chave":"",
-    "parar_processo":false,
+    "pararProcesso":false,
     "prioridade":1,
-    "last_action":1
+    "lastAction":1
 }

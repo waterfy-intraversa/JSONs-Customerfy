@@ -21,6 +21,7 @@
     "considerar_total_fatura":true,
     "id_grupo_exibe":1,
     "col_tipo_taxa_atraso":[
+      
         1
     ],
     "id_tipo_reg_integracao_fin":1,

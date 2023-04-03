@@ -1,0 +1,16 @@
+{
+    "idCategoria":1,
+    "idSubCategoria":1,
+    "qtdEconomia":1,
+    "categoria":"",
+    "subCategoria":"",
+    "percentualFat":1,
+    "identTabela":1,
+    "idUnidadeMensuracao":"",
+    "valorUnidade":1.1,
+    "volumeEstimado":1,
+    "pesoFaturado":1,
+    "baseCalc":1.1,
+    "corLinha":"",
+    "categoriaPrincipal":true
+}

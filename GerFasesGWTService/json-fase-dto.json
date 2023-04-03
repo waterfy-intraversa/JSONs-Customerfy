@@ -1,15 +1,15 @@
 {
     "fase":"",
-    "id_periodo":1,
-    "seq_periodo":1,
-    "id_fase":1,
+    "idPeriodo":1,
+    "seqPeriodo":1,
+    "idFase":1,
     "periodo":"",
     "valida":"",
     "msg":"",
-    "data_prev":"",
-    "tol_antes":1,
-    "tol_depois":1,
-    "apenas_no_prazo":"",
+    "dataPrev":"",
+    "tolAntes":1,
+    "tolDepois":1,
+    "apenasNoPrazo":"",
     "status":"",
-    "exige_inicio":""
+    "exigeInicio":""
 }
