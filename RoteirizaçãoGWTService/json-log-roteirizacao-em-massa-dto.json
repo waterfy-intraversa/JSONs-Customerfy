@@ -1,0 +1,30 @@
+{
+    "idCidade":1,
+    "cidade":"",
+    "idGrupo":1,
+    "grupo":"",
+    "rota":1,
+    "rotaNova":1,
+    "seqIni":1,
+    "seqFin":1,
+    "seqIniNova":1,
+    "data":"",
+    "hora":"",
+    "idUsuario":1,
+    "usuario":"",
+    "incremento":1,
+    "revertido":"",
+    "logRoteirizacaoEmMassaDetVO":[{
+        "idLogDetalhe":1,
+        "idLigacao":1,
+        "rota":1,
+        "rotaNova":1,
+        "seq":1,
+        "seqNova":1
+    }],
+    "inicial":false,
+    "nova":false,
+    "parcial":false
+
+
+}
