@@ -1,6 +1,7 @@
 {
 	"usuario_logado":{
 		"id":1,
+		"processoAInicializar":1,
 		"usuario":"string",
 		"cpf":"string",
 		"id_grupo_usuario":1,
