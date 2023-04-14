@@ -1,0 +1,17 @@
+{
+    "controle":1,
+    "idservico":1,
+    "idatributo":1,
+    "obrigatorio":false,
+    "solicitarData":false,
+    "siglamedicao1":"",
+    "siglamedicao2":"",
+    "normalizado":false,
+    "tipoDados":"",
+    "atributo":"",
+    "nrmedicoes":1,
+    "sqlObterAtributos":"",
+    "sqlAtualizarVlrAtributo":"",
+    "sqlObterVlrAtributoAtual":"",
+    "normalizadoCompleto":false
+}

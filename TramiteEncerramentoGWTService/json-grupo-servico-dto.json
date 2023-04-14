@@ -1,0 +1,25 @@
+{
+    "idCidade":1,
+    "grupo":"",
+    "idTipoManutencaoServico":1,
+    "tipoManutencaoServico":"",
+    "tipo":"",
+    "idCategoriaRedeServico":1,
+    "CategoriaRedeServico":"",
+    "causasRedeServico":[{
+        "idStr":"",
+        "descr":"",
+        "flag":"",
+        "tipoRet":1
+    }],
+    "idSistemaEletromecanica":1,
+    "sistemaEletromecanica":"",
+    "idAreaEletromecanica":1,
+    "areaEletromecanica":"",
+    "linhasAcaoEletromecanicaServico":[{
+        "idStr":"",
+        "descr":"",
+        "flag":"",
+        "tipoRet":1
+    }]
+}

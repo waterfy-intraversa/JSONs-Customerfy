@@ -1,0 +1,13 @@
+{
+    "idservico":1,
+    "idmaterial":1,
+    "material":"",
+    "comprimento":1.1,
+    "largura":1.1,
+    "profundidade":1.1,
+    "qtd":1.1,
+    "valorunitario":1.1,
+    "valortotal":1.1,
+    "valoriss":1.1,
+    "nrDimensoes":1
+}
