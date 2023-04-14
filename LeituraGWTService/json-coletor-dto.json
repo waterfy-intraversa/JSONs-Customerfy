@@ -356,7 +356,6 @@
                     "valor_cofins":1.1,
                     "valor_inss":1.1,
                     "id_rubrica":1
-
                 }],
                 "col_excecao":[{
                    "id_excecao":1,
@@ -437,8 +436,6 @@
                 "valor_cofins":1.1,
                 "valor_inss":1.1
             }]
-            
-
         }],
         "volume_estimado":1.1,
         "vol_cons_minimo":1.1,
@@ -509,6 +506,4 @@
     "cobrar_cons_nao_fat_prox_ciclo_esgoto":false,
     "qtd_ligacoes_pendentes":1,
     "id_rota_parcial":1
-        
-    
 }
