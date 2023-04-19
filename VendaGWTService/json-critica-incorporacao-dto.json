@@ -1,0 +1,16 @@
+{
+    "idLigacao":1,
+    "clienteGerador":"",
+    "cpfCnpjGerador":"",
+    "idVendaDetParcela":1,
+    "valor":1.1,
+    "nrParcelas":"",
+    "clienteAtual":"",
+    "cpfCnpjAtual":"",
+    "liberar":false,
+    "periodo":"",
+    "idPeriodoIncorporacao":1,
+    "periodoPreIncorporacao":"",
+    "idPeriodoPreIncorporacao":1,
+    "IdPeriodoOrigemIncorporacao":1
+}
