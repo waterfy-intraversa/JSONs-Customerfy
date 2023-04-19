@@ -1,0 +1,13 @@
+{       "id_categoria":1,
+        "categoria":"string",
+        "nr_economias":1,
+        "peso":1,
+        "isento":"string",
+        "check":true,
+        "prioridade":1,
+        "percentual_fat":1,
+        "vol_cons_minimo":1.1,
+        "faixa_inicial":1.1,
+        "vol_faturado":1.1,
+        "nr_economia_excecao":1
+}
