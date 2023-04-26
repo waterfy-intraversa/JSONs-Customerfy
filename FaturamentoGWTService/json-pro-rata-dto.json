@@ -1,0 +1,80 @@
+{
+    "colDecretoVO":[{
+        "idCidade": 0,
+        "decreto": "",
+        "dataVigenciaDiarioOficial": "",
+        "idPeriodoVigencia": 0,
+        "idCategoria": 0,
+        "decretoCategoriaList":[{
+            "idDecreto": 0,
+            "idCategoria": 0,
+            "decretoCategoriaProdutoList":[{
+                "idDecreto": 0,
+                "idDecretoCategoria": 0,
+                "idProduto": 0,
+                "produto": "",
+                "faixaMinima": 0.0,
+                "faixaMaxima": 0.0,
+                "valor": 0.0,
+                "valorDeducao": 0.0,
+                "acao": "",
+                "valorDeducaoDescMin": 0.0,
+                "decreto": "",
+                "categoria": "",
+                "validado": "",
+                "cidade": "",
+                "dataVigencia": "",
+                "periodo": "",
+                "valorComDesconto": 0.0,
+                "volumeLimite": 0.0,
+                "valorTarifaFixa": 0.0
+            }],
+            "produtoValorFixoList":[{
+                "idProduto": 0,
+                "idDecretoCategoria": 0,
+                "valor": 0.0
+            }],
+            "acao": "",
+            "custoFixo": 0.0
+        }],
+        "coeficienteReducao":{
+            "idCidade": 0,
+            "coeficienteReducao": "",
+            "descricaoFatura": "",
+            "idUsuarioCadastro": 0,
+            "nomeusuario": "",
+            "dataHoraCadastro": "",
+            "idUsuarioCancelamento": 0,
+            "dataHoraCancelamento": "",
+            "ativo": "",
+            "categorias":[{
+                "idCoeficienteReducao": 0,
+                "idCategoria": 0,
+                "produtos":[{
+                    "idCoeficienteReducaoCategoria": 0,
+                    "idProduto": 0,
+                    "faixaMinima": 0,
+                    "faixaMaxima": 0,
+                    "coeficiente": 0.0,
+                    "exibirFatura": false,
+                    "descFatura": ""
+                }]
+            }]
+        },
+        "colDecretoCustoMinimoFixo":[{
+            "idDecreto": 0,
+            "idTipoFaturamento": 0,
+            "idRubrica": 0,
+            "percentual": 0.0
+        }],
+        "acao": "",
+        "nrDiasProRata": 0,
+        "percentualProRata": 0.0,
+        "alterado": "N",
+        "aplCoeficiente": "N",
+        "validado": "N",
+        "idUsuario": 0
+    }],
+    "dataIniVenda":"",
+    "dataFimVenda":""
+}
