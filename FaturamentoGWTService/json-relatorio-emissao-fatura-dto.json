@@ -1,0 +1,19 @@
+{
+    "nrFaturasTotal": 0,
+    "nrFaturasIsentas": 0,
+    "nrFaturas": 0,
+    "nrFaturasDebAuto": 0,
+    "vencimentoOriginal": 1,
+    "nrFaturasOutrosGruposPeriodoAtual": 0,
+    "nrFaturasOutrosGruposPeriodoPosterior": 0,
+    "nrFaturasDeOutrosGrupos": 0,
+    "nrFaturasDoGrupoAtual": 0,
+    "nrFaturasEnviarEmail": 0,
+    "nrFaturasEnviadaSucesso": 0,
+    "nrFaturasEnviadaErro": 0,
+    "nrFaturasEnviarSMS": 0,
+    "colTipoEntrega":[{
+        "tipoEntrega":"",
+        "qtd":1 
+    }]
+}
