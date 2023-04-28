@@ -37,6 +37,6 @@
             "idArrecadacao": 1,
             "isSegVia": false
         },
-        "retornadocoletor": "",
-        "faturaemitida": ""
+        "retornaDoColetor": "",
+        "faturaEmitida": ""
 }

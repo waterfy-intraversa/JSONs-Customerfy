@@ -1,0 +1,23 @@
+{
+    "idServico": 0,
+    "idAtributo": 0,
+    "atributo": "",
+    "dataHoraMedicaoInicial": "",
+    "idMedicaoInicial": 0,
+    "idMedicaoFinal": 0,
+    "valorMedicaoInicial": "",
+    "dataHoraMedicaoFinal": "",
+    "valorMedicaoFinal": "",
+    "siglam1": "",
+    "siglam2": "",
+    "solicitarData": "N",
+    "nrmedicoes": 0,
+    "normalizado": "",
+    "obrigatorio": "",
+    "tipoDados": "",
+    "servico": "",
+    "normalizadoCompleto": "",
+    "sqlObterAtributos": "",
+    "sqlAtualizarVlrAtributo": "",
+    "sqlObterVlrAtributoAtual": ""
+}

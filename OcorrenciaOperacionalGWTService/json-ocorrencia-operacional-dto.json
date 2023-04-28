@@ -1,41 +1,41 @@
 {
-    "id_cidade":1,
-    "id_tipo_ocorrencia":1,
+    "idCidade":1,
+    "idTipoOcorrencia":1,
     "titulo":"",
     "descricao":"",
-    "tipo_ocorrencia":"",
-    "hora_inicial":"",
-    "hora_final":"",
+    "tipoOcorrencia":"",
+    "horaInicial":"",
+    "horaFinal":"",
     "previsao":"",
     "intervencoes":"",
     "situacao":"",
     "status":"",
-    "populacao_afetada":1,
+    "populacaoAfetada":1,
     "observacao":"",
     "classificacao":"",
     "informante":"",
     "sistemas":[{
-        "id_str":"",
+        "idStr":"",
         "descr":"",
         "flag":"",
-        "tipo_ret":1
+        "tipoRet":1
     }],
     "bairros":[{
-        "id_str":"",
+        "idStr":"",
         "descr":"",
         "flag":"",
-        "tipo_ret":1
+        "tipoRet":1
     }],
     "logradouros":[{
-        "id_str":"",
+        "idStr":"",
         "descr":"",
         "flag":"",
-        "tipo_ret":1
+        "tipoRet":1
     }],
-    "zona_macro":[{
-        "id_str":"",
+    "zonaMacro":[{
+        "idStr":"",
         "descr":"",
         "flag":"",
-        "tipo_ret":1
+        "tipoRet":1
     }]
 }
