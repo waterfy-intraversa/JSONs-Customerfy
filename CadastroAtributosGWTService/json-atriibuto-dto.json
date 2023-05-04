@@ -1,0 +1,13 @@
+{
+    "idAtributo": 0,
+    "idAtributoTipo": 0,
+    "atributo": "",
+    "tipoDados": "",
+    "nrMedicoes": 0,
+    "siglaMedicao1": "",
+    "siglaMedicao2": "",
+    "sqlObterAtributos": "",
+    "sqlAtualizarVlrAtributo": "",
+    "sqlObterVlrAtributoAtual": "",
+    "normalizadoCompleto": false
+}
