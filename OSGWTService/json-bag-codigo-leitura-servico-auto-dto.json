@@ -1,0 +1,15 @@
+{
+    "idCidade":1,
+    "cidade":"",
+    "listCodigoLeituraServicoAuto":[{
+        "idLigacao": 0,
+        "idCodigoLeitura": 0,
+        "descricaoCodigoLeitura": "",
+        "idCidade": 0,
+        "descricaoCidade": "",
+        "idServico": 0,
+        "descricaoServico": "",
+        "observacao": "",
+        "erro": false
+    }]
+}

@@ -1,0 +1,10 @@
+{
+    "idUsuario":1,
+    "usuario":"",
+    "idLigacao":1,
+    "idFatura":1,
+    "email":"",
+    "dataHora":"",
+    "status":"",
+    "observacao":""
+}
