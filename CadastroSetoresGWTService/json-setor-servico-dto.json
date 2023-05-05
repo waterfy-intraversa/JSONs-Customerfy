@@ -1,0 +1,12 @@
+{
+    "idSS": 0,
+    "idDistrito": 0,
+    "idCidade": 0,
+    "idBairro": 0,
+    "idLogradouro": 0,
+    "rotaLeit": 0,
+    "cidade": "",
+    "distrito": "",
+    "bairro": "",
+    "logradouro": ""
+}
