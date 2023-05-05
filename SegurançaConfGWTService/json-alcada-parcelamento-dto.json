@@ -1,0 +1,16 @@
+{
+    "idGrupoUsuario":1,
+    "valorMaximo":1.1,
+    "descricao":"",
+    "reparcelarDebito":"",
+    "valorMinimo":1.1,
+    "qtdMaxParcelas":1,
+    "percentual":1.1,
+    "qtdDiasEntrada":1,
+    "encargos":[
+        1
+    ],
+    "tipoParcelamento":[
+        1
+    ]
+}
