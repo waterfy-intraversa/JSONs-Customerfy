@@ -1,0 +1,10 @@
+{
+    "idContabilizacaoFaturamento": 0,
+    "idEventoFaturamento": 0,
+    "idGrupoRubricaFaturamento": 0,
+    "idDebito": 0,
+    "idCredito": 0,
+    "grupoRubrica": "",
+    "contaDebito": "",
+    "contaCredito": ""
+    }
