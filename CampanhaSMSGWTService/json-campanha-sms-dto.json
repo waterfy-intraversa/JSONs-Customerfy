@@ -1,0 +1,44 @@
+{
+    "idCampanha": 0,
+    "idLigacao": 0,
+    "idCidade": 0,
+    "telefonesValidos": "",
+    "faturaDebito": "",
+    "txtSms": "",
+    "nomeCampanha": "",
+    "valorMinimoFatura": 0.0,
+    "tipoFiltroData": 0,
+    "periodoVencimento": false,
+    "dataVencimentoDE": "",
+    "dataVencimentoATE": "",
+    "diasVencidos": false,
+    "diasVencidosDE": 0,
+    "diasVencidosATE": 0,
+    "diasVencer": false,
+    "diasVencerDE": 0,
+    "diasVencerATE": 0,
+    "grupos":[{
+        "idStr": "",
+        "descr": "",
+        "flag": "",
+        "tipoRet": 0
+    }],
+    "situacaoLigacao":[{
+        "idStr": "",
+        "descr": "",
+        "flag": "",
+        "tipoRet": 0
+    }],
+    "situacaoCobranca":[{
+        "idStr": "",
+        "descr": "",
+        "flag": "",
+        "tipoRet": 0
+    }],
+    "bairros":[{
+        "idStr": "",
+        "descr": "",
+        "flag": "",
+        "tipoRet": 0
+    }]
+}
