@@ -1,24 +1,25 @@
+
 {
-    "id_cidade":1,
-        "coeficiente_reducao":"",
-        "descricao_fatura":"",
-        "id_usuario_cadastro":1,
-        "nome_usuario":"",
-        "data_hora_cadastro":"",
-        "id_usuario_cancelamento":1,
-        "data_hora_cancelamento":"",
-        "ativo":"",
-        "categorias":[{
-            "id_coeficiente_reducao":1,
-            "id_categoria":1,
-            "produtos":[{
-                "id_coeficiente_reducao_categoria":1,
-                "id_produto":1,
-                "faixa_minima":1,
-                "faixa_maxima":1,
-                "coeficiente":1.1,
-                "exibir_fatura":false,
-                "desc_fatura":""
-            }]
+    "idCidade": 1,
+    "coeficienteReducao": "",
+    "descricaoFatura": "",
+    "idUsuarioCadastro": 1,
+    "nomeUsuario": "",
+    "dataHoraCadastro": "",
+    "idUsuarioCancelamento": 1,
+    "dataHoraCancelamento": "",
+    "ativo": "",
+    "categorias": [{
+        "idCoeficienteReducao": 1,
+        "idCategoria": 1,
+        "produtos": [{
+            "idCoeficienteReducaoCategoria": 1,
+            "idProduto": 1,
+            "faixaMinima": 1,
+            "faixaMaxima": 1,
+            "coeficiente": 1.1,
+            "exibirFatura": false,
+            "descFatura": ""
         }]
+    }]
 }
