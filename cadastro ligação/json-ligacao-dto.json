@@ -1,6 +1,7 @@
 {
 	"envia_coletor":"string",
 	"id_usuario":1,
+	"id_usuario_admin":1,
 	"alterado":true,
 	"novo":true,
 	"data_ligacao":"string",
@@ -17,6 +18,8 @@
 	"ligacao_entrega_alterada":true,
 	"vol_estimado":1,
 	"endereco_ligacao":"string",
+	"numero_moradores":1,
+	"numero_moradores_inquilino":1,
 	"cliente":{
 		"alterado":true,
 		"novo":true,
@@ -152,6 +155,8 @@
 		"id_tipo_faturamento":1,
 		"id_tipo_faturamento_cons":1,
 		"id_tipo_cobranca":1,
+		"id_cobranca_fase":1,
+		"cobranca_fase":"",
 		"utiliza_fonte_alternativa":true,
 		"id_situacao_ligacao":1,
 		"id_class_consumo":1,
