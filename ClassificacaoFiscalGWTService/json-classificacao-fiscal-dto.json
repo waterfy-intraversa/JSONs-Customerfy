@@ -1,0 +1,11 @@
+{
+    "alterado":true,
+    "novo":true,
+    "idCidade":1,
+    "classificacaoFiscal":"",
+    "classificacaoFiscalImpostoVO":[{
+        "controle":1,
+        "idImposto":1,
+        "percentual":1.1
+    }]
+}

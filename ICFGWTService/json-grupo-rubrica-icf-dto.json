@@ -1,0 +1,13 @@
+{
+    "idGrupoRubrica":1,
+    "rubricas":[{
+        "idRubrica":1,
+        "idRubricaFaturamentoDetalhe":1,
+        "rubrica":""
+    }],
+    "rubricasAssociadas":[{
+        "idRubrica":1,
+        "idRubricaFaturamentoDetalhe":1,
+        "rubrica":""
+    }]
+}

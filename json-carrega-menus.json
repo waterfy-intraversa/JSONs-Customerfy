@@ -1,5 +1,17 @@
-[
-	{
+{
+	"id":1,
+	"ordem":1,
+	"grupo_tela":"tela",
+	"col_tela":[{
+		"id":1,
+		"tela":"tela",
+		"nome_gui":"nome",
+		"id_grupo_tela":1,
+		"ordem":1,
+		"sistema":1,
+		"ativo":true
+	}],
+	"col_grupo_tela":[{
 		"id":1,
 		"ordem":1,
 		"grupo_tela":"tela",
@@ -12,32 +24,18 @@
 			"sistema":1,
 			"ativo":true
 		}],
-		"col_grupo_tela":[{
-			"id":1,
-			"ordem":1,
-			"grupo_tela":"tela",
-			"col_tela":[{
-				"id":1,
-				"tela":"tela",
-				"nome_gui":"nome",
-				"id_grupo_tela":1,
-				"ordem":1,
-				"sistema":1,
-				"ativo":true
-			}],
-			"col_grupo_tela":[{}],
-			"sistema":1,
-			"id_grupo_tela_pai":1,
-			"icone":"icone",
-			"icone_hover":"icone",
-			"arq_ico":"icone",
-			"arq_ico_hover":"icone"
-		}],
+		"col_grupo_tela":[{}],
 		"sistema":1,
 		"id_grupo_tela_pai":1,
 		"icone":"icone",
 		"icone_hover":"icone",
 		"arq_ico":"icone",
 		"arq_ico_hover":"icone"
-	}
-]
+	}],
+	"sistema":1,
+	"id_grupo_tela_pai":1,
+	"icone":"icone",
+	"icone_hover":"icone",
+	"arq_ico":"icone",
+	"arq_ico_hover":"icone"
+}

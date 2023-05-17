@@ -1,7 +1,7 @@
-[{
+{
     "id_contrato":1,
     "id_macro":1,
     "id_cidade":1,
     "descricao_documento":"string",
     "observacao":"string"
-}]
+}
