@@ -1,0 +1,28 @@
+{
+    "idSituacaoParcela": 0,
+    "idSituacaoFatura": 0,
+    "idRubrica": 0,
+    "situacaoFatura": "",
+    "idPeriodoIncorp": 0,
+    "liberadoManual": false,
+    "periodoIncorp": "",
+    "rubrica": "",
+    "parcela": 0,
+    "valor": 0.0,
+    "valorUfir": 0.0,
+    "valorImposto": 0.0,
+    "idFatura": 0,
+    "idTipoCobranca": 0,
+    "enviado": false,
+    "observacaoCancelamento": "",
+    "idMotivoCancelamentoTCl": 0,
+    "calculoConsumoSimultanea": "",
+    "origem": "",
+    "vendaFatIncorpDetImpostoVO":[{
+        "idRubrica":1,
+        "valor":1.1
+    }],
+    "idVenda": 0,
+    "idVendaDetalhe": 0,
+    "idLigacao": 0
+}
