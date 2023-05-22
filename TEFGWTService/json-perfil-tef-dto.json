@@ -1,0 +1,23 @@
+{
+    "caminhoArquivoJAR": "",
+    "descricao": "",
+    "codigoTransacaoPagamento": 0,
+    "codigoTransacaoCancelamento": 0,
+    "codigoTransacaoReimpressao": 0,
+    "codigoTransacaoContingencia": 0,
+    "ipServidor": "",
+    "caminhoArquivoIdentificadorTerminal": "",
+    "codigoLoja": "",
+    "emitirComprovanteCaixa": "",
+    "homologacao": "N",
+    "debugMode": "",
+    "parametrosTEF":{
+        "idCidade": 0,
+        "idUnidadeOperacional": 0,
+        "idPerfilTEF": 0,
+        "pathArquivoConciliacao": "",
+        "idArrecadadorTEF": 0,
+        "valorMinimo": 0.0,
+        "tipoComprovante": ""
+    }
+}

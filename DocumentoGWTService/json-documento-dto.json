@@ -1,0 +1,15 @@
+{
+    "documento":"",
+    "macro":"",
+    "documentoTipo":{
+        "documentoTipo":""
+    },
+    "servicosDocumento":[{
+        "departamento": "",
+        "idDepartamento": 0,
+        "servico": "",
+        "idServico": 0
+    }],
+    "idMacro":1,
+    "idCidade":1
+}

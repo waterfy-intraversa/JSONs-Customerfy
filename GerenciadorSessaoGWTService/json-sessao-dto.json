@@ -1,5 +1,8 @@
 {
-    "processo_a_inicializar":1,
+    "idSessao": "",
+    "sistema": 0,
+    "usuario":{
+        "processo_a_inicializar":1,
     "usuario":"string",
     "cpf":"string",
     "id_grupo_usuario":1,
@@ -264,5 +267,6 @@
     "cidadesSemPermissao":[{
         "cidade":""
     }]
-    
+    },
+    "objSize":1
 }

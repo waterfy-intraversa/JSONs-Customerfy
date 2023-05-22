@@ -1,0 +1,21 @@
+{
+    "taskType":{
+        "tipoTarefa": "",
+        "procedural": "",
+        "procedure": "",
+        "emailResponsavel": ""
+    },
+    "idCidade": 0,
+    "params": "",
+    "dateExec": 1,
+    "nextExec": 1,
+    "second": "",
+    "minute": "",
+    "hour": "",
+    "dayOfWeek": "",
+    "dayOfMonth": "",
+    "month": "",
+    "year": "",
+    "ativo": "",
+    "datainvalida": false
+}

@@ -1,0 +1,19 @@
+{
+        "consPadrao": "",
+        "idTabela": 0,
+        "sqlCampoRetid": "",
+        "sqlCampoRetDescr": "",
+        "tipoRet": 0,
+        "campoPesq":[{
+            "idConsPadrao": 0,
+            "idCampoPesq": 0,
+            "campo": "",
+            "ordem": 0
+        }],
+        "campoExib":[{
+            "idConsPadrao": 0,
+            "idCampoPesq": 0,
+            "campo": "",
+            "ordem": 0
+        }]
+}
