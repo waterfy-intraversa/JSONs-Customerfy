@@ -1,0 +1,10 @@
+{
+    "idBancoMovimento": 0,
+    "idArrecadador": 0,
+    "numeroBanco": 0,
+    "nomeBanco": "",
+    "contaMovimento": "",
+    "descricao": "",
+    "arrecadador": "",
+    "contaContabil": ""
+}
