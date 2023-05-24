@@ -1,0 +1,23 @@
+{
+    "seq":1,
+    "ReceitaVO":[{
+        "ue": 0,
+        "dataCredito": "",
+        "debCred": "",
+        "historico": "",
+        "ccFin": "",
+        "ccCtb": "",
+        "histPadrao": "",
+        "ctaFin": "",
+        "ctaCtb": "",
+        "qtdRegistro": 0,
+        "valor": 0.0,
+        "codctabcomwdreceita": 0,
+        "operacao": 0,
+        "seq": 0,
+        "fixo1": 0,
+        "fixo2": 0,
+        "idTipoRegIntegracaoFin": 0,
+        "tipoRegistro": ""
+    }]
+}
