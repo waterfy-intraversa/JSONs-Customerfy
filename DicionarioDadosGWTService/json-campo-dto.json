@@ -1,0 +1,22 @@
+
+{
+    "idTabela": 0,
+    "campo": "",
+    "nome": "",
+    "tipoDadoJava": "",
+    "tabela": "",
+    "tabelaConsPadrao": "",
+    "campoConsPadrao": "",
+    "idConsPadrao": 0,
+    "tamCampo": 0,
+    "tipoDadoBD": "",
+    "valDefault": "",
+    "campoConsRegistro": "",
+    "campoExibConsRegistro": "",
+    "ordemCampoExibConsRegistro": 0,
+    "campoRotuloVO":[{
+        "idTabelaCampo": 0,
+        "idLingua": 0,
+        "descr": ""
+    }]
+}

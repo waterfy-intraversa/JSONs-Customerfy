@@ -28,14 +28,14 @@
     "idUnidadeOperacional": 0,
     "usuario": "",
     "idUnidadeNegocio": 0,
-    "params":{"": ""},
-    "macroCategoria":"",
-    "horarioExecucaoMacroVOs":[{
-        "idmacro": 1,
-        "idDiaSemana": 1,
-        "horaInicio": "",
-        "horaTermino": "",
-        "diaSemana": ""
+    "params": {},
+    "macroCategoria": "",
+    "horarioExecucaoMacroVOs":[{        
+        "idmacro": null,
+        "idDiaSemana": null,
+        "horaInicio": null,
+        "horaTermino": null,
+        "diaSemana": null
     }],
     "logarExecucao": false,
     "idCidade": 0,
@@ -74,5 +74,5 @@
             "tipoRet": 0
         }]
     }],
-    "result":""        
+    "result":""
 }
