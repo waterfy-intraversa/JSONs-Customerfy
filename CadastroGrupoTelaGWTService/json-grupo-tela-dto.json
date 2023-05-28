@@ -10,7 +10,23 @@
         "ativo": false
     }],
     "colGrupoTela":[{
-        
+        "ordem": 0,
+        "grupoTela": "",
+        "colTela":[{
+            "tela": "",
+            "nomeGUI": "",
+            "idGrupoTela": 0,
+            "ordem": 0,
+            "sistema": 1,
+            "ativo": false
+        }],
+        "colGrupoTela":[{}],
+        "sistema":1,
+        "idGrupoTelaPai": 0,
+        "icone": "",
+        "arqIco": "",
+        "iconeHover": "",
+        "arqIcoHover": ""
     }],
     "sistema":1,
     "idGrupoTelaPai": 0,

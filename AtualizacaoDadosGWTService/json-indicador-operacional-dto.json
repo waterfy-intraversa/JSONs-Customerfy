@@ -1,8 +1,8 @@
 {
-    "id_indicador":1,
-    "id_indicador_detalhe":1,
-    "id_periodo":1,
-    "id_cidade":1,
+    "idIndicador":1,
+    "idIndicadorDetalhe":1,
+    "idPeriodo":1,
+    "idCidade":1,
     "indicador":"",
     "unidade":"",
     "valor":"",
