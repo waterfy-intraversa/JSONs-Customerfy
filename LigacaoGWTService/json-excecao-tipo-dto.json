@@ -1,0 +1,15 @@
+{
+    "idExcecao": 0,
+    "idTipoExcecao": 0,
+    "exigePercentual": "",
+    "exigeValor": "",
+    "exigeCarga": "",
+    "exigeClassificacaoFiscal": "",
+    "exigeTipoFaturamento": "",
+    "exigeData": "",
+    "exigeAjusteValorPorVolume": "",
+    "exigeCategoria": "",
+    "exigeSubCategoria": "",
+    "idMotivoPadrao": 0,
+    "idPeriodoIncorporacao": 0
+}
