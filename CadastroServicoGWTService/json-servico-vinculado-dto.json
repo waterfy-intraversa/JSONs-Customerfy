@@ -1,0 +1,15 @@
+{
+    "idServicoVinculado": 0,
+    "obrigatorio": false,
+    "utilizarPropriaOS": false,
+    "dataHoraAberturaPrevista": false,
+    "utilizarLigsVinculados": false,
+    "utilizaLigacaoOriginal": false,
+    "confirmaAbertura": false,
+    "prazoVinculado": 0.0,
+    "prazoClienteVinculado": 0.0,
+    "prazoAlertaVinculado": 0.0,
+    "codigoReferencia": "",
+    "descricao": "",
+    "idAssociado": ""
+}
