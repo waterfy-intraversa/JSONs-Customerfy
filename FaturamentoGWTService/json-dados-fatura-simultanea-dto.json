@@ -1,0 +1,21 @@
+{
+    "key": 0,
+    "idFatura": 0,
+    "idRubrica": 0,
+    "rubrica": "",
+    "valorPocket": 0.0,
+    "valorRecalculo": 0.0,
+    "vencto": "",
+    "idTipoTransacao": 0,
+    "tipoTransacao": "",
+    "valor": 0.0,
+    "valorImposto": 0.0,
+    "valorTotal": 0.0,
+    "idPeriodo": 0,
+    "descPeriodo": "",
+    "idCidade": 0,
+    "idGrupo": 0,
+    "idLigacao": 0,
+    "observacao": "",
+    "corrigido": false
+}
