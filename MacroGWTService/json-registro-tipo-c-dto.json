@@ -1,0 +1,23 @@
+{
+    "codClienteRegistroB": "",
+    "agencia": "",
+    "conta": "",
+    "situacao": "",
+    "obs": "",
+    "idTipoMovimentoDA": 0,
+    "codConvenioDebAuto": "",
+    "camaraCompensacao": "",
+    "nomeEmpresaDebAuto": "",
+    "colDetTipoC": [{}],
+    "arrecadador": "",
+    "idArrecadador": 0,
+    "seqEnvioDebAuto": "",
+    "identServico": "",
+    "idLigacao": 0,
+    "qtdRegistros": 0,
+    "valorTotal": 0.0,
+    "pathDebAuto": "",
+    "nomeArquivo": "",
+    "data": "",
+    "numeroBanco": 0
+}

@@ -1,0 +1,16 @@
+{
+    "dataVencimentoInicial": null,
+    "dataVencimentoFinal": null,
+    "idArrecadador": 0,
+    "idGrupoInicial": 0,
+    "idGrupoFinal": 0,
+    "idLigacao": 0,
+    "idCidade": 0,
+    "anoPeriodo": 0,
+    "mesPeriodo": 0,
+    "dataBDVencimentoInicial": null,
+    "dataBDVencimentoFinal": null,
+    "dataHoraInicioExecucao": null,
+    "dataHoraFimExecucao": null,
+    "tipo": ""
+}
