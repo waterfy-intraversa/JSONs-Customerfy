@@ -1,0 +1,14 @@
+{
+    "idCidade": 0,
+    "idEmpresa": 0,
+    "idModelo": 0,
+    "anoFabricacao": 0,
+    "notaFiscal": "",
+    "nrInicial": 0,
+    "nrFinal": 0,
+    "nrSerie": "",
+    "idSitMedidor": 1,
+    "instalado": "N",
+    "dataAquisicao": "",
+    "idFormaAquisicao": 0
+}
