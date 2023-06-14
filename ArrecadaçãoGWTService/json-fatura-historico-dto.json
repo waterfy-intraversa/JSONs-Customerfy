@@ -1,0 +1,33 @@
+{
+    "periodo": "",
+    "idFatura": 0,
+    "idLigacao": 0,
+    "tipoTransacao": "",
+    "dataVencto": null,
+    "faturaHistoricoDetVO":[{
+        "idFaturaPagamento": 0,
+        "status": "",
+        "arrecadador": "",
+        "debitoAutomatico": "",
+        "arquivo": "",
+        "tipoBaixa": "",
+        "usuarioImportacao": "",
+        "motivoEstorno": "",
+        "tipoRetorno": "",
+        "usuarioAlteracao": "",
+        "idUsuarioAlteracao": 0,
+        "dataImportacao": null,
+        "horaImportacao": null,
+        "dataPagto": null,
+        "dataCredito": null,
+        "dataAlteracao": null,
+        "dataRetorno": null,
+        "numeroDocumento": "",
+        "transacao": "",
+        "dataInicioTransacao": "",
+        "dataFinalTransacao": "",
+        "nsa": "",
+        "pathDownload": ""
+    }],
+    "valor": 0.0
+}

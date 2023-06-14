@@ -1,0 +1,13 @@
+
+{
+    "idRubrica": -1,
+    "idFatura": -1,
+    "idClienteInquilino": 0,
+    "rubrica": "",
+    "valor": 0,
+    "valorUfir": 0,
+    "valorAcum": 0,
+    "periodo": "",
+    "idRubricaOrigem": 0,
+    "calculoCorrecaoPendente": ""
+}
