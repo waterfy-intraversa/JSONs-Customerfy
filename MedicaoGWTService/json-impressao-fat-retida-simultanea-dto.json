@@ -1,0 +1,20 @@
+{
+    "idLigacao": 0,
+    "slip": 0,
+    "idFatura": 0,
+    "idTipoEntrega": 0,
+    "nomeCliente": "",
+    "criticaMedicao": false,
+    "criticaLeitura": false,
+    "entregaEspecial": false,
+    "enviarFaturaEmail": false,
+    "faturaEmitida": "",
+    "faturaImpressaColetor": "N",
+    "enviarEmail": false,
+    "enviarEmailSucesso": false,
+    "enviarEmailErro": false,
+    "impressaSemQualidade": false,
+    "declaracaoQuitacaoAnual": "",
+    "idProcessoCorte": 0,
+    "entregaFace": false
+}
