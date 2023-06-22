@@ -1,0 +1,31 @@
+{
+    "idCaixa": 0,
+    "dataAbertura": "",
+    "valorAbertura": 0.0,
+    "dataFechamento": "",
+    "valorFechamento": 0.0,
+    "idUsuario": 0,
+    "ativo": "",
+    "caixaMovimentoDetalhe":[{
+        "idCaixaMovimento": 0,
+        "idTipoMovimentoCaixa": 0,
+        "dataMovimento": "",
+        "idDocumento": 0,
+        "valor": 0.0,
+        "idUsuario": 0,
+        "idcaixaoperacao": 0,
+        "valorDinheiro": 0.0,
+        "valorCheque": 0.0,
+        "valorCartao": 0.0,
+        "valorTransferencia": 0.0,
+        "valorTroco": 0.0,
+        "valorDivida": 0.0,
+        "valorAbono": 0.0,
+        "valorIncorporar": 0.0,
+        "idFaturaAbonada": 1,
+        "vlrFaturaAbonada": 0.0,
+        "idArrecadacao": null,
+        "isSegVia": false
+    }],
+    "isSegVia": false
+}

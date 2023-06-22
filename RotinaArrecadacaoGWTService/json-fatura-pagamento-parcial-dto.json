@@ -1,0 +1,16 @@
+{
+    "idFaturaPagamentoParcial": 0,
+    "idFatura": 0,
+    "idUsuarioAlteracao": 0,
+    "idVendaRemanescente": 0,
+    "idFaturaPagamento": 0,
+    "situacao": "",
+    "status": "",
+    "dataPagamento": "",
+    "dataPagamentoFormatada": "",
+    "datacredito": "",
+    "dataAlteracao": "",
+    "valorPagoDouble": 0,
+    "valorPago": 0,
+    "valorTaxa": 0
+}
