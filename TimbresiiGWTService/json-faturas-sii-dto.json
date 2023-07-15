@@ -1,0 +1,21 @@
+{
+    "idLigacao": 0,
+    "nome": "",
+    "periodo": "",
+    "valor": 0,
+    "enviadoSii": "",
+    "dataHoraEnvio": "",
+    "xmlEnviado": "",
+    "xmlResposta": "",
+    "faturaRecalculada": false,
+    "idFaturaRecalculada": null,
+    "faturaRecalculadaBaixada": false,
+    "faturaModificada": false,
+    "estadoEnvio": "",
+    "codigoErro": null,
+    "descricaoErro": null,
+    "idCidade": 0,
+    "baixaManual": false,
+    "faturaSimplificada": false,
+    "tipoFatura": 0
+}
