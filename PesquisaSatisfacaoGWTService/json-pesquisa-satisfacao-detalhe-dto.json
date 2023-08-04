@@ -1,0 +1,23 @@
+{
+    "idServico": 0,
+    "idOS": 0,
+    "idPesquisa": 0,
+    "qtdPesquisa": 0,
+    "solicitante": "",
+    "servico": "",
+    "logradouro": "",
+    "telefoneSolicitante": "",
+    "telefoneFixo": "",
+    "telefoneCelular": "",
+    "inicioExecucao": "",
+    "fimExecucao": "",
+    "perguntas": [{
+        "id": 1,
+        "perguntas": "",
+        "observacao": "",
+        "respostas": [{
+            "id": 1,
+            "resposta": ""
+        }]
+    }]
+}  
