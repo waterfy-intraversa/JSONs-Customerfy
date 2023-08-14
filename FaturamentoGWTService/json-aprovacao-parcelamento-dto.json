@@ -1,0 +1,18 @@
+{
+    "idParcelamento": 0,
+    "dataHoraParcelamento": "",
+    "status": "",
+    "idLigacao": 0,
+    "tipoParcelamento": "",
+    "valorDebito": 0,
+    "valorEncargo": 0,
+    "valorDesconto": 0,
+    "percentual": 0,
+    "valorTotal": 0,
+    "qtdParcelas": 0,
+    "idUsuarioParcelamento": 0,
+    "idUsuarioAprovacao": 0,
+    "usuarioParcelamento": "",
+    "usuarioAprovacao": "",
+    "dataHoraAprovacao": ""
+}

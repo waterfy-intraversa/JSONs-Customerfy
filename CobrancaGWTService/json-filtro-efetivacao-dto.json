@@ -1,0 +1,20 @@
+{
+    "idCidade": 0,
+    "idGrupo": 0,
+    "codigoProcesso": 0,
+    "idLeiturista": 0,
+    "dataCorte": "",
+    "horaCorte": "",
+    "idEmpresa": 0,
+    "idLigacao": 0,
+    "cortado": "",
+    "idMotivo": 0,
+    "idTipoCorte": 0,
+    "leituraCorte": 0,
+    "lacre": "",
+    "idMotivoCorte": 0,
+    "leituraAnterior": 0,
+    "residuo": 0,
+    "residuoPendente": 0,
+    "baixaCancelamento": "N"
+}
