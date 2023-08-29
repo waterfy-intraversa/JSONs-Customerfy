@@ -1,0 +1,14 @@
+{
+    "indiceReajuste":"",
+    "idCidade":1,
+    "idUsuario":1,
+    "indiceReajusteDetalhes":[{
+        "idIndiceReajuste":1,
+        "idPeriodo":1,
+        "periodo":"",
+        "periodoSeq":1,
+        "percentual":1.1,
+        "valor":1.1
+    }],
+    "usuario":""
+}
