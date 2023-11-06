@@ -24,5 +24,10 @@
     "desconsiderarWhiteList": false,
     "qtdeMaxOsPorDia": 0,
     "numDiasGerados": 0,
-    "descricaoGeral": ""
+    "descricaoGeral": "",
+    "idFaseAtual": 0,
+    "idFaseAnterior": 0,
+    "habilitarFasesCorte": false,
+    "faseAnterior": "",
+    "faseAtual": ""
 }
