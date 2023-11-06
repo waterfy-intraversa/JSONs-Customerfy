@@ -1,0 +1,16 @@
+{
+  "idCidade": 0,
+  "tipo": "",
+  "titulo": "",
+  "logradouro": "",
+  "logradouroIni": "",
+  "logradouroFim": "",
+  "idLogradouroInicial": 0,
+  "idLogradouroFinal": 0,
+  "referencia": "",
+  "bairros":[{
+    "bairro": "",
+    "idCidade": 0,
+    "idDistrito": 0
+  }]
+}
