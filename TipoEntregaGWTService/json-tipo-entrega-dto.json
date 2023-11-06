@@ -10,5 +10,9 @@
     }],
     "email":"",
     "assunto_email":"",
-    "texto_email":""
+    "texto_email":"",
+    "idTipoEntrega": 0,
+    "idCidade": 0,
+    "quadra": "",
+    "lote": ""
 }

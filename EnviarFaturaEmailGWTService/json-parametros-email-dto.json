@@ -1,0 +1,10 @@
+{
+  "idCidade": 0,
+  "assuntoEmail": "",
+  "corpoEmailSegVia": "",
+  "nomeArquivo": null,
+  "isImagemCabecalho": false,
+  "emailOcultoEnvioFatura": "",
+  "utlizarRastreabilidadeEmail": false,
+  "cabecalhoEmailArq": null
+}
