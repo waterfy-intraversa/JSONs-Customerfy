@@ -1,0 +1,23 @@
+{
+    "enquadramentoFaixaVolFaturado": true,
+    "idCidade": 0,
+    "idGrupo": 0,
+    "grupo": "",
+    "idProduto": 0,
+    "produto": "",
+    "seqPerInicial": 0,
+    "perInicial": "",
+    "seqPerFinal": 0,
+    "perFinal": "",
+    "opcao": 0,
+    "periodos": "",
+    "tipoCategoria": 0,
+    "descrTipoCategoria": "",
+    "considerarVolumeFaturadoZero": true,
+    "faixas":{
+        "de":1,
+        "ate":1
+    },
+    "periodo": 0
+  }
+  

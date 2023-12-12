@@ -1,0 +1,17 @@
+{
+    "idLigacao": 0,
+    "consumidor": "",
+    "idCidade": 0,
+    "cidade": "",
+    "qtdLigacoesConsolidadas": 0,
+    "disponivelParaImpressao": false,
+    "idPeriodo": 0,
+    "idGrupo": 0,
+    "faturaEmitida": false,
+    "disponivelParaCalculo": false,
+    "idFatura": 0,
+    "email": false,
+    "enviadoEmail": false,
+    "calculoFinalizado": false
+}
+  
