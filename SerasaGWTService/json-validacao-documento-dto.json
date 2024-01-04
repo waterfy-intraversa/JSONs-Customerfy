@@ -1,0 +1,6 @@
+{
+    "pessoaFisica":false,
+    "pessosJuridica":false,
+    "cpfJaCadastro":false,
+    "cnpjJaCadadastro":false
+}
