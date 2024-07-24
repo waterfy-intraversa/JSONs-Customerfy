@@ -1,0 +1,31 @@
+{
+    "cidade": "",
+    "data": "",
+    "hora": "",
+    "idUsuario": 0,
+    "idGrupo": 0,
+    "grupo": "",
+    "categoria": "",
+    "vencimentoDe": "",
+    "vencimentoAte": "",
+    "periodoDe": "",
+    "periodoAte": "",
+    "valorLimiteDe": 0.0,
+    "valorLimiteAte": 0.0,
+    "quantidadeFaturasDe": 0,
+    "quantidadeFaturasAte": 0,
+    "quantidadeLigacoes": 0,
+    "idPeriodoDe": 0,
+    "idPeriodoAte": 0,
+    "valorTotal": 0.0,
+    "dividaAtivaDetalheVetor": [
+        {
+            "idLogDividaAtiva": 0,
+            "idLigacao": 0,
+            "idFatura": 0,
+            "dataVencimentoFatura": "",
+            "valorFatura": 0.0
+        }          
+    ]
+}
+  
